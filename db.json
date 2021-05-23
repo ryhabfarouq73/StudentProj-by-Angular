@@ -1,0 +1,66 @@
+{
+    "students":[
+        {
+        "id":1,
+        "name":"ryhab",
+        "address":{
+            "city":"giza",
+            "street":"faisal"
+        }
+    },
+        {
+            "id":2,
+            "name":"mhmd",
+            "address":{
+                "city":"giza",
+                "street":"omrania"
+                }
+        }
+        ,
+        {
+            "id":3,
+            "name":"mahmoud",
+            "address":{
+                "city":"giza",
+                "street":"el-shorbgy"
+                }
+        },
+        
+        {
+            "id":4,
+            "name":"rabab",
+            "address":{
+                "city":"helwan",
+                "street":"el-raya"
+                }
+        }
+        ,
+        {
+            "id":5,
+            "name":"wessam",
+            "address":{
+                "city":"banha",
+                "street":"shorbgy"
+                }
+        },
+        
+        {
+            "id":6,
+            "name":"omar",
+            "address":{
+                "city":"cairo",
+                "street":"mokoloun"
+                }
+        }
+        ,
+        {
+            "id":7,
+            "name":"ali",
+            "address":{
+                "city":"alex",
+                "street":"sidybeshr"
+                }
+        }
+    
+    ]
+}
